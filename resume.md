@@ -299,4 +299,4 @@ Miscellaneous
 
 2022 -- Present
 :   Regularly donating to the Ukrainian army and invite everyone to do so:
-    <https://www.comebackalive.in.ua/donate>
+    <https://savelife.in.ua/en/donate-en>
