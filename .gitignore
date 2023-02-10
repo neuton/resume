@@ -1,0 +1,11 @@
+*
+!.gitignore
+!README.md
+!resume.md
+!style.css
+
+!.github
+.github/*
+!.github/workflows
+.github/workflows/*
+!.github/workflows/publish.yml
