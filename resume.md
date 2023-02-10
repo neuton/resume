@@ -94,15 +94,15 @@ Programming Languages
     Practical familiarity with building web apps on Flask + SQL.
     Check out my Github gists for code samples: <https://gist.github.com/neuton>.
 
-:   **C**: Decent knowledge from undergrad
+    **C**: Decent knowledge from undergrad
     on efficient numerical methods for solving linear algebra and calculus problems.
     Practiced OpenCL and CUDA usage for GPGPU calculations.
 
-:   **FORM**: Did symbolic algebra on particle scattering amplitudes for my PhD research.
+    **FORM**: Did symbolic algebra on particle scattering amplitudes for my PhD research.
 
-:   **Haskell**: Loved it. Never used.
+    **Haskell**: Loved it. Never used.
 
-:   Familiar with **C++**, **Fortran**, **Pascal**, **Bash**, **Makefile**.
+    Familiar with **C++**, **Fortran**, **Pascal**, **Bash**, **Makefile**.
 
 System Admin
 :   Practical experience with managing my own and public **Linux** machines:
