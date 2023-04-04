@@ -19,33 +19,30 @@ Employment
 :   **Postdoc, Computational Biophysics**;
     *Trento Institute for Fundamental Physics and Applications, Italy*
     
-    Protein folding molecular dynamics
-    within the transition-path theory (Gromacs, Python, MDAnalysis).
-    Studied an approach to a variational estimate of the committor function
-    for some known fast-folding proteins.
-    Wrote scripts to automate production and analysis of ratchet-and-pawl
-    Gromacs simulations on a cluster (Bash, Makefile).
-    Co-lectured a course on molecular physics for
-    biology and computer science students.
+    Applied transition-path theory to protein folding molecular dynamics
+    (Gromacs, Python and MDAnalysis),
+    resulting in a variational estimate of the committor function for fast-folding proteins.
+    Automated production and analysis of ratchet-and-pawl Gromacs simulations
+    on a cluster (Bash, Makefile).
+    Co-lectured a course on molecular physics for biology and computer science students.
     Assisted in maintaining servers and computer cluster infrastructure
-    (Proxmox, slurm).
+    (Proxmox, Debian, Wordpress, Bash, slurm).
 
 2015 -- 2019
 :   **PhD student, Theoretical Nuclear Physics**;
     *Johannes Gutenberg University of Mainz, Germany*
     
-    Performed a supervised research on application of dispersion relations
-    to timelike Compton scattering off the proton,
-    low-energy quarkonium -- proton interaction
-    and the hadronic light-by-light scattering in relation to muon's anomalous magnetic moment
-    (Python, FORM).
+    Conducted a supervised research (Python, FORM, pen)
+    on application of dispersion relations in quantum field theory
+    to various hadronic processes, contributing to several highly-cited papers.
     Did 3 semesters of teaching assistance in quantum mechanics and basic quantum field theory.
 
 2014
 :   **Python developer** at [ScienceWISE](https://info.arxiv.org/help/sciencewise.html) project;
     *Swiss Federal Institute of Technology Lausanne, Switzerland*
     
-    Backend development (Django, MySQL) and local servers monitoring (Python, Bash).
+    Developed and monitored backend systems for ScienceWISE project
+    (Django, MySQL, Python, Bash) improving data management and user experience.
 
 
 Education
@@ -57,8 +54,9 @@ Education
     Thesis: [*"Dispersion relations in two-photon hadronic processes"*](https://doi.org/10.25358/openscience-5257)
     
     Extended MSc study to a broader range of hadronic interactions,
-    namely the dilepton photoproduction,
-    the quarkonium -- proton scattering and the hadronic light-by-light scattering.
+    namely the timelike Compton scattering,
+    the quarkonium -- proton scattering,
+    and the hadronic light-by-light scattering in relation to muon's anomalous magnetic moment.
     The research resulted in multiple highly-cited papers.
 
 2013 -- 2015
@@ -88,10 +86,12 @@ Technical Experience
 
 Programming Languages
 :   **Python**:
-    Extensive experience of scientific calculations with NumPy/SciPy
-    (data fitting and numerical integration, basic statistics),
+    Deep knowledge of the core language features,
+    extensive experience of scientific calculations with NumPy/SciPy
+    (data fitting and numerical integration, statistics),
     visualization for publications, automation.
     Practical familiarity with building web apps on Flask + SQL.
+    Interoperability with C and other languages.
     Check out my Github gists for code samples: <https://gist.github.com/neuton>.
 
     **C**: Decent knowledge from undergrad
@@ -102,11 +102,12 @@ Programming Languages
 
     **Haskell**: Loved it. Never used.
 
-    Familiar with **C++**, **Fortran**, **Pascal**, **Bash**, **Makefile**.
+    Familiar with **C++**, **Fortran**, **Pascal**, **Bash**, **Makefile** etc.
 
 System Admin
 :   Practical experience with managing my own and public **Linux** machines:
-    web servers, Proxmox hypervisors, computing clusters.
+    HTTP servers, Proxmox hypervisors, NAS, computing clusters (slurm);
+    TCP/IP networking setup and computer hardware assembly.
 
 Computer Graphics
 :   Wrote a (software) [rasterizer](https://github.com/neuton/pascal-graph3d) engine
@@ -129,26 +130,31 @@ Teaching
 :   **Co-lecturer, Introduction to Molecular Physics**;
     *University of Trento, Italy*
     
-    A course for biologists and computer scientists from the ground up
-    to the basics of quantum theory of molecular interactions.
+    Co-lectured a course on molecular physics for biology and computer science students,
+    from the ground-up to the basics of quantum theory of molecular interactions.
+    Composed lectures on the introductory hands-on mixture of multivariable calculus,
+    mathematical physics and quantum mechanics.
 
 2017 / 2018
 :   **Teaching assistant, Quantum Field Theory**;
     *Johannes Gutenberg University of Mainz, Germany*
     
-    Led seminars on solving exercises.
+    Led classes on solving exercises on introductory quantum field theory.
+    Graded homeworks and final exam.
 
 2017
 :   **Teaching assistant, Quantum Mechanics**;
     *Johannes Gutenberg University of Mainz, Germany*
     
-    Supervised creation and assembly of exercises for students.
+    Supervised creation and assembly of exercises and final exam
+    for undergrad physics students for the introductory quantum mechanics course.
 
 2016 / 2017
 :   **Teaching assistant, Advanced Quantum Mechanics**;
     *Johannes Gutenberg University of Mainz, Germany*
     
-    Led seminars on solving exercises.
+    Led classes on solving exercises on relativistic many-body theory / quantum field theory
+    and graded students' homeworks.
 
 
 Publications
@@ -297,6 +303,6 @@ September 2013
 Miscellaneous
 -------------
 
-2022 -- Present
-:   Regularly donating to the Ukrainian army and invite everyone to do so:
-    <https://savelife.in.ua/en/donate-en>
+* Good written and verbal communication in **English (C1)** and **Ukrainian (native speaker)**
+
+* Regularly donating to the Ukrainian army and invite everyone to do so: <https://savelife.in.ua/en/donate-en>
