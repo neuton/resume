@@ -10,7 +10,6 @@ title: Oleksii Gryniuk
 > [<img class="googlescholar">](https://scholar.google.com/citations?user=JFraLwUAAAAJ)
 > [<img class="github">](https://github.com/neuton)
 
----------------------------------------------------------------------------------------
 
 Employment
 ----------
