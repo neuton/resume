@@ -19,6 +19,7 @@ jobs:
         with:
           args: -s --css=style.css --output=pages/index.html resume.md
       - run: cp style.css pages/
+      - run: cp googlee08fad3dab40860d.html pages/
       - uses: actions/upload-pages-artifact@main
         with:
           path: pages/
