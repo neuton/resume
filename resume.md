@@ -14,8 +14,19 @@ title: Oleksii Gryniuk
 Employment
 ----------
 
+2023 -- 2025
+:   **Postdoctoral researcher, Experimental Particle Physics**;
+    *University of Trento, Italy*
+    
+    Led a preliminary design and simulation study of a next-generation magnetic spectrometer demonstrator
+    for a long-duration balloon mission over Antarctica, focused on cosmic-ray antimatter detection.
+    Developed and integrated custom frameworks (Geant4, C++, C, Python)
+    for charged-particle propagation in the atmosphere, magnetic field modeling and tracking performance,
+    enabling detailed evaluation of the theoretical spectrometer performance
+    and laying the groundwork for future spaceborne experiments.
+
 2021 -- 2023
-:   **Postdoc, Computational Biophysics**;
+:   **Postdoctoral researcher, Computational Biophysics**;
     *Trento Institute for Fundamental Physics and Applications, Italy*
     
     Applied transition-path theory to protein folding molecular dynamics
@@ -97,11 +108,13 @@ Programming Languages
     on efficient numerical methods for solving linear algebra and calculus problems.
     Practiced OpenCL and CUDA usage for GPGPU calculations.
 
+    **C++**: Practical experience in building extensive **Geant4** simulations from scratch.
+
     **FORM**: Did symbolic algebra on particle scattering amplitudes for my PhD research.
 
     **Haskell**: Loved it. Never used.
 
-    Familiar with **C++**, **Fortran**, **Pascal**, **Bash**, **Makefile** etc.
+    Familiar with **Fortran**, **Pascal**, **Bash**, **Makefile** etc.
 
 System Admin
 :   Practical experience with managing my own and public **Linux** machines:
@@ -206,6 +219,12 @@ July 2015
 Conference Proceedings
 ----------------------
 
+September 2025
+:   R. Iuppa, O. Gryniuk, D. Mascione, A. Perinelli,
+    *"Sensitivity studies and technological advancements for balloon-borne demonstrators of direct antimatter detection"*
+    
+    PoS ICRC2025 (https://doi.org/10.22323/1.501.0053)
+
 January 2018
 :   N. Asmussen *et al.*,
     *"Hadronic light-by-light scattering contribution to the muon $g\,–\,2$ on the lattice"*
@@ -302,6 +321,7 @@ September 2013
 Miscellaneous
 -------------
 
-* Good written and verbal communication in **English (C1)** and **Ukrainian (native speaker)**
+* Good written and verbal communication in **English (C1)** and **Ukrainian (native speaker)**,
+  basic knowledge of **German (A1)** and **Italian (A2)**
 
 * Regularly donating to the Ukrainian army and invite everyone to do so: <https://savelife.in.ua/en/donate-en>
