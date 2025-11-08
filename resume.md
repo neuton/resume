@@ -15,7 +15,7 @@ Employment
 ----------
 
 2023 -- 2025
-:   **Postdoctoral researcher, Experimental Particle Physics**;
+:   **Postdoc, Experimental Particle Physics**;
     *University of Trento, Italy*
     
     Led a preliminary design and simulation study of a next-generation magnetic spectrometer demonstrator
@@ -26,7 +26,7 @@ Employment
     and laying the groundwork for future spaceborne experiments.
 
 2021 -- 2023
-:   **Postdoctoral researcher, Computational Biophysics**;
+:   **Postdoc, Computational Biophysics**;
     *Trento Institute for Fundamental Physics and Applications, Italy*
     
     Applied transition-path theory to protein folding molecular dynamics
@@ -102,7 +102,6 @@ Programming Languages
     visualization for publications, automation.
     Practical familiarity with building web apps on Flask + SQL.
     Interoperability with C and other languages.
-    Check out my Github gists for code samples: <https://gist.github.com/neuton>.
 
     **C**: Decent knowledge from undergrad
     on efficient numerical methods for solving linear algebra and calculus problems.
@@ -115,6 +114,8 @@ Programming Languages
     **Haskell**: Loved it. Never used.
 
     Familiar with **Fortran**, **Pascal**, **Bash**, **Makefile** etc.
+
+    Check out my Github gists for code samples: <https://gist.github.com/neuton>.
 
 System Admin
 :   Practical experience with managing my own and public **Linux** machines:
@@ -174,6 +175,7 @@ Publications
 
 July 2020
 :   O. Gryniuk, S. Joosten, Z.-E. Meziani, M. Vanderhaeghen,
+    
     *"$\Upsilon$ photo-production on the proton at the Electron-Ion Collider"*
     
     [Phys. Rev. D **102** (2020) no.1, 014016](https://link.aps.org/doi/10.1103/PhysRevD.102.014016)
@@ -181,6 +183,7 @@ July 2020
 
 October 2018
 :   A. Gérardin, J. Green, O. Gryniuk, G. von Hippel, H. B. Meyer, V. Pascalutsa, H. Wittig,
+    
     *"Hadronic light-by-light scattering amplitudes from lattice QCD versus dispersive sum rules"*
     
     [Phys. Rev. D **98** (2018) no.7, 074501](https://link.aps.org/doi/10.1103/PhysRevD.98.074501)
@@ -188,6 +191,7 @@ October 2018
 
 August 2016
 :   O. Gryniuk, M. Vanderhaeghen,
+    
     *"Accessing the real part of the forward $J/\psi$-p scattering amplitude
     from $J/\psi$ photoproduction on protons around threshold"*
     
@@ -196,6 +200,7 @@ August 2016
 
 April 2016
 :   O. Gryniuk, F. Hagelstein, V. Pascalutsa,
+    
     *"Evaluation of the forward Compton scattering off protons: II. Spin-dependent amplitude and observables"*
     
     [Phys. Rev. D **94** (2016) no.3, 034043](https://link.aps.org/doi/10.1103/PhysRevD.94.034043)
@@ -203,6 +208,7 @@ April 2016
 
 August 2015
 :   O. Gryniuk, F. Hagelstein, V. Pascalutsa,
+    
     *"Evaluation of the forward Compton scattering off protons: Spin-independent amplitude"*
     
     [Phys. Rev. D **92** (2015) 074031](https://link.aps.org/doi/10.1103/PhysRevD.92.074031)
@@ -210,6 +216,7 @@ August 2015
 
 July 2015
 :   J. Green, O. Gryniuk, G. von Hippel, H. B. Meyer, V. Pascalutsa,
+    
     *"Lattice QCD calculation of hadronic light-by-light scattering"*
     
     [Phys. Rev. Lett. **115** (2015) 22, 222003](https://link.aps.org/doi/10.1103/PhysRevLett.115.222003)
@@ -221,12 +228,14 @@ Conference Proceedings
 
 September 2025
 :   R. Iuppa, O. Gryniuk, D. Mascione, A. Perinelli,
+    
     *"Sensitivity studies and technological advancements for balloon-borne demonstrators of direct antimatter detection"*
     
-    PoS ICRC2025 (https://doi.org/10.22323/1.501.0053)
+    [PoS ICRC2025](https://doi.org/10.22323/1.501.0053)
 
 January 2018
 :   N. Asmussen *et al.*,
+    
     *"Hadronic light-by-light scattering contribution to the muon $g\,–\,2$ on the lattice"*
     
     [EPJ Web Conf. **179** (2018) 01017](https://doi.org/10.1051/epjconf/201817901017)
@@ -234,6 +243,7 @@ January 2018
     
 December 2017
 :   I. V. Anikin *et al.*,
+    
     *"Nucleon and nuclear structure through dilepton production"*
     
     [Acta Phys. Polon. B **49** (2018) 741](https://doi.org/10.5506/APhysPolB.49.741)
@@ -241,6 +251,7 @@ December 2017
     
 October 2017
 :   A. Gerardin, J. Green, O. Gryniuk, G. von Hippel, H. B. Meyer, V. Pascalutsa, H. Wittig,
+    
     *"Light-by-light forward scattering amplitudes in Lattice QCD"*
     
     [EPJ Web Conf. **175** (2018) 06030](https://doi.org/10.1051/epjconf/201817506030)
@@ -248,6 +259,7 @@ October 2017
     
 October 2015
 :   J. Green, N. Asmussen, O. Gryniuk, G. von Hippel, H. B. Meyer, A. Nyffeler, V. Pascalutsa,
+    
     *"Direct calculation of hadronic light-by-light scattering"*
     
     PoS LATTICE **2015** (2016) 109
@@ -322,6 +334,6 @@ Miscellaneous
 -------------
 
 * Good written and verbal communication in **English (C1)** and **Ukrainian (native speaker)**,
-  basic knowledge of **German (A1)** and **Italian (A2)**
+  basics of **German (A1)** and **Italian (A2)**
 
 * Regularly donating to the Ukrainian army and invite everyone to do so: <https://savelife.in.ua/en/donate-en>
