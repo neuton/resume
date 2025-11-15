@@ -72,7 +72,7 @@ Education
 2013 -- 2015
 :   **MSc, Theoretical Physics**; *Taras Shevchenko National University of Kyiv, Ukraine*
     
-    Thesis: *"Causality constraints on the forward Compton scattering of the proton"*
+    Thesis: *"Causality constraints on the forward Compton scattering off the proton"*
     
     For the thesis, performed numerical calculations
     for the forward Compton scattering off the proton
